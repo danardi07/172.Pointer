@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
-
-public:class mahasiswa {
+class mahasiswa {
+public:
 	int nim;
 	void showNim();
 };
