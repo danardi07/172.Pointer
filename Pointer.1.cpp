@@ -19,7 +19,7 @@ int main()
 	 
 	mahasiswa& ref = mhs;
 	ref.nim = 2;  
-	mhs.showNim();
+	mhs.showNim(); 
 	 
 	mahasiswa* pMhs = &mhs;
 	pMhs->nim = 3;
